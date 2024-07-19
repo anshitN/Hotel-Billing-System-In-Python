@@ -14,7 +14,7 @@ menu_category_dict = {"Tea & Coffee":"1 Tea & Coffee.txt","Beverages":"2 Beverag
 
 order_dict = {}
 for i in menu_category:
-    order_dict[i] = {}
+    order_dict[i] = {}lk
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 #====================Backend Functions===========================
